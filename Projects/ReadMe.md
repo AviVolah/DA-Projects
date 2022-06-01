@@ -20,6 +20,4 @@ Each folder represents a separate project and contains a detailed README file de
 |[12th project - ]() | | *Pandas, matplotlib, seaborn, sidetable, scipy.stats*|
 |[13th project - ]() | | *Pandas, matplotlib, seaborn, sidetable, scipy.stats*|
 |[14th project - ]() | | *Pandas, matplotlib, seaborn, sidetable, scipy.stats*|
-|[15th project - E-commerce: Analyzing the product range](https://github.com/AviVolah/AviVolah/blob/Practicum/Projects/15th%20Project/15th%20Project%20-%20Final%20Clean.ipynb) | The dataset contains the transaction history of an online store that sells household goods. we should find what products we should sell more, what should we exclude and which products are sold together.| *Pandas, matplotlib, seaborn, sidetable, scipy.stats*|
-
-
+|[15th project - E-commerce: Analyzing the product range](https://github.com/AviVolah/AviVolah/blob/Practicum/Projects/15th%20Project/15th%20Project%20-%20Final%20Clean.ipynb) | The dataset contains the transaction history of an online store that sells household goods. we should find what products we should sell more, what should we exclude and which products are sold together.| *Pandas, InteractiveShell, reduce, matplotlib, sidetable, scipy.stats, apriori, association_rules, numpy*|
