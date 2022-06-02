@@ -38,11 +38,7 @@ The report will be considered when building a credit scoring of a potential cust
 |---|---|
 |Pandas | 1.3.5 |
 |NumPy | 1.20.1 |
-|SciPy | 1.6.2 |
-|Sidetable | 0.9.0 |
 |Matplotlib | 3.5.2 |
-|Plotly.express | 5.3.1 |
-|Seaborn | 0.11.2 |
 
 
 ## Project overview
