@@ -17,7 +17,7 @@ The report will be considered when building a credit scoring of a potential cust
 
 ### Description of data
 
-`credit_scoring_eng.csv`:  data on customers’ credit worthiness
+`credit_scoring_eng.csv`:  Data on customers’ credit worthiness
 - **children**: the number of children in the family
 - **days_employed**: how long the customer has been working
 - **dob_years**: the customer’s age
