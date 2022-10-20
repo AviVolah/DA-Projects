@@ -8,7 +8,7 @@ Each folder represents a separate project and contains a detailed README file de
 | Project Name | Description | Libraries |
 |---|---|---|
 |[1st project - Data Preprocessing](https://github.com/AviVolah/AviVolah/tree/Practicum/Projects/1st%20Project) | Introductory project focused on data cleaning, in which features are explored to determine what may impact the probability of customers defaulting on a loan.| *Pandas, matplotlib, nltk, sidetable*|
-|[2nd project -  ]() | | *Pandas, matplotlib, nltk, sidetable*|
+|[2nd project -  ](https://github.com/AviVolah/AviVolah/tree/Practicum/Projects/2nd%20Project) | | *Pandas, matplotlib, nltk, sidetable*|
 |[4th project - Video Game Trends](https://github.com/AviVolah/AviVolah/tree/Practicum/Projects/4th%20Project) | Analyzed online sales of video games to identify regional industry trends to make recommendations for allocation of future marketing costs.| *Pandas, matplotlib, seaborn, sidetable, scipy.stats*|
 |[5th project - ]() | | *Pandas, matplotlib, seaborn, sidetable, scipy.stats*|
 |[6th project - ]() | | *Pandas, matplotlib, seaborn, sidetable, scipy.stats*|
