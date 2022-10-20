@@ -1,6 +1,6 @@
-# Video gmes trends
+# Video games trends
 
-👉 View the `notebook` **[here](https://nbviewer.org/github/shirarua/practicum-projects/blob/main/sales_funnel_AAB/sales_funnel_AAB_test.ipynb)** using **nbviewer**.
+👉 View the `notebook` **[here](https://nbviewer.org/github/AviVolah/AviVolah/blob/Practicum/Projects/4th%20Project/Project%204%20-%20Forecasting%20game%20sales.ipynb)** using **nbviewer**.
 
 
 ## Project description
