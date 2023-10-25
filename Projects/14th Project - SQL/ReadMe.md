@@ -1,10 +1,10 @@
 This is my SQL project from the Practicum Program
 
 
-Its about 
+It contains different tasks that require different querying techniques.
 
 Its done in Jupyter
 
-Language: Python
+Language: Python, SQLite
 
 Source file: None
