@@ -5,6 +5,6 @@ It contains different tasks that require different querying techniques.
 
 Its done in Jupyter
 
-Language: Python, SQLite
+Language: Python, SQL
 
 Source file: None
